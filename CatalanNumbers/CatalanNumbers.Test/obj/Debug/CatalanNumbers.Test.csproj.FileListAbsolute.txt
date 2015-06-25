@@ -1,0 +1,7 @@
+E:\Projekty\Visual Studio\Algorytmy\CatalanNumbers\CatalanNumbers.Test\bin\Debug\CatalanNumbers.Test.dll
+E:\Projekty\Visual Studio\Algorytmy\CatalanNumbers\CatalanNumbers.Test\bin\Debug\CatalanNumbers.Test.pdb
+E:\Projekty\Visual Studio\Algorytmy\CatalanNumbers\CatalanNumbers.Test\obj\Debug\CatalanNumbers.Test.csprojResolveAssemblyReference.cache
+E:\Projekty\Visual Studio\Algorytmy\CatalanNumbers\CatalanNumbers.Test\obj\Debug\CatalanNumbers.Test.dll
+E:\Projekty\Visual Studio\Algorytmy\CatalanNumbers\CatalanNumbers.Test\obj\Debug\CatalanNumbers.Test.pdb
+E:\Projekty\Visual Studio\Algorytmy\CatalanNumbers\CatalanNumbers.Test\bin\Debug\CatalanNumbers.Methods.dll
+E:\Projekty\Visual Studio\Algorytmy\CatalanNumbers\CatalanNumbers.Test\bin\Debug\CatalanNumbers.Methods.pdb

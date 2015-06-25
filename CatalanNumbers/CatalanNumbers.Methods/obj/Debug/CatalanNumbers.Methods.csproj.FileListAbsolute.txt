@@ -1,0 +1,4 @@
+E:\Projekty\Visual Studio\Algorytmy\CatalanNumbers\CatalanNumbers.Methods\bin\Debug\CatalanNumbers.Methods.dll
+E:\Projekty\Visual Studio\Algorytmy\CatalanNumbers\CatalanNumbers.Methods\bin\Debug\CatalanNumbers.Methods.pdb
+E:\Projekty\Visual Studio\Algorytmy\CatalanNumbers\CatalanNumbers.Methods\obj\Debug\CatalanNumbers.Methods.dll
+E:\Projekty\Visual Studio\Algorytmy\CatalanNumbers\CatalanNumbers.Methods\obj\Debug\CatalanNumbers.Methods.pdb
